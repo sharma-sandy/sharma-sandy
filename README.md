@@ -2,7 +2,7 @@
 
 I am a Lead Data Scientist at Tiger Analytics. I have experience with various statistical tools, Deep Learning, Machine Learning, and Advanced Analytics.
 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React Native
 
 ## Get in touch
 - <b>LinkedIn<b> : https://www.linkedin.com/in/sharma-sandy
